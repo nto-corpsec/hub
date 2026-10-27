@@ -1,6 +1,8 @@
 # Project v2
 
-Org-level доска создаётся вручную: API требует скоупа `project` и GraphQL.
+Доска: **https://github.com/orgs/nto-corpsec/projects/1** (создана, поля настроены).
+
+Ниже — как воспроизвести с нуля: API требует скоупа `project` и GraphQL.
 
 ## Через UI
 
@@ -10,7 +12,7 @@ Org-level доска создаётся вручную: API требует ск�
 
 | Поле | Тип | Значения |
 |---|---|---|
-| Status | single select | Backlog, Ready, In progress, Review, Done, Blocked |
+| Status | single select | Backlog, Ready, In progress, Review, Done, Blocked (настроено) |
 | Role | single select | lead, soceng, dfir, netsec, websec, osint |
 | Priority | single select | P0, P1, P2, P3 |
 | Effort | number | часы |

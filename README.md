@@ -18,6 +18,8 @@
 
 ## Доска
 
+Org-level Project: [NTO 2026 — Board](https://github.com/orgs/nto-corpsec/projects/1).
+
 Issues с метками `role/*`, `priority/*`, `status/*`; вехи `M0…M4`.
 Фильтры: `is:open label:priority/p0`, `is:open label:role/websec`.
 
