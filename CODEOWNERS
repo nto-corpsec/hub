@@ -1,0 +1,7 @@
+# По умолчанию всё ревьюит лид
+* @nto-corpsec/leads
+
+/docs/ @nto-corpsec/leads
+/runbooks/ @nto-corpsec/leads
+/adr/ @nto-corpsec/leads
+/.github/ @nto-corpsec/leads
