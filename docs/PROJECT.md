@@ -1,6 +1,6 @@
 # Project v2
 
-Доска: **https://github.com/orgs/nto-corpsec/projects/1** (создана, поля настроены).
+Доска: **[NTO 2026 — Board](https://github.com/orgs/nto-corpsec/projects/1)** (создана, поля настроены).
 
 Ниже — как воспроизвести с нуля: API требует скоупа `project` и GraphQL.
 
